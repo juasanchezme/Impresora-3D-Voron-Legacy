@@ -13,7 +13,10 @@ Este proyecto documenta el proceso de ensamblaje de una impresora 3D de código 
 - **Modificaciones en hardware:**
   - Cambio de cama calefactora por una de PCB.
   - Sustitución de la sonda de nivelación inductiva por una Klicky Probe.
-- **Uso de Klipper:** Ajuste del firmware Klipper para soportar la Klicky Probe.
+- **Uso de Klipper:** Ajuste del firmware Klipper, configurado para soportar la Klicky Probe y el nuevo volumen de impresión.
+
+Los **archivos de configuración del firmware (.cfg)** se encuentran disponibles en la carpeta [`firmware/`](./firmware/) del repositorio.
+
 
 ---
 
