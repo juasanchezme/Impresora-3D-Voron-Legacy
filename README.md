@@ -3,9 +3,14 @@
 ## 📦 Descripción del Proyecto
 Este proyecto documenta el proceso de ensamblaje de una impresora 3D de código abierto, la Voron Legacy, junto con la elaboración de un manual de usuario. El objetivo principal es proporcionar una guía técnica que cubra los aspectos básicos del ensamblaje, así como modificaciones realizadas en hardware y firmware respecto al diseño original, fomentando el desarrollo y la colaboración dentro de la comunidad.
 
+## 🎥 Video de Demostración
+Puedes hacer clic en la imagen para ver el video completo del ensamblaje y una prueba de impresión en YouTube:
+
+[![Video de Demostración](https://i.ytimg.com/vi/vdqjh4PyvEQ/maxresdefault.jpg)](https://youtu.be/vdqjh4PyvEQ)
+
 ## ⚙️ Objetivos
 - **Ensamblaje de la impresora 3D:** Montaje y alineación precisa de todas las piezas necesarias. 
-- **Configuración del firmware:** Instalación y ajuste de Klipper para optimizar rendimiento y precisión. 
+- **Configuración del firmware:** Instalación y ajuste del firmware Klipper.
 - **Pruebas de impresión:** Realización de impresiones de prueba para verificar calidad y calibración. 
 
 ### 🔧 Modificaciones realizadas
@@ -20,4 +25,4 @@ Los **archivos de configuración del firmware (.cfg)** se encuentran disponibles
 
 ---
 
-> Este proyecto incluye, el manual técnico, vídeo muestra del flujo de trabajo de una impresión, archivo de configuración .cfg.
+> La documentación de este proyecto está compuesta por el manual técnico, un video que documenta el proceso completo desde el ensamblaje de la impresora hasta el flujo de trabajo de una impresión real, las diapositivas presentadas y  los archivos de configuración (.cfg) necesarios.
